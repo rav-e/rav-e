@@ -7,7 +7,7 @@
 <hr>
 
 <p align="center" "style=font-size:40px"><b>Blogs</b><p>
-<p align="center"><a src="https://dev.to/rav"><img width=50px src="https://github.com/rav-e/rav-e/blob/main/dev.png"> <a></p>
+<p align="center"><a src="https://dev.to/rav"><img width=50px src="https://github.com/rav-e/rav-e/blob/main/dev.png"></a></p>
 <hr>
 
 #### Connect with me
