@@ -17,8 +17,6 @@
 <img width=20px src="https://github.com/rav-e/rav-e/blob/main/twitter.png"> ```@jr_raviranjan```
 <br>
 
-📞73877 61061
-
 
 
 
