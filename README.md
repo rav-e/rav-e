@@ -1,13 +1,9 @@
 # Hey there! I'm Ravi.
-✨ I'm a Student, pursuing Bachelor of Engineering degree in Computer Engineering.
+👋🏻 I'm a Student, pursuing Computer Engineering specialized in Software Development.
 <br>
-🪢 I'm Amazed by capabilities of Computers,
+🪢 Amazed by capabilities of Computers,
 <br>
 🛠 Currently learning to Build Software's.
-<hr>
-
-<p align="center" "style=font-size:40px"><b>Blogs</b><p>
-<p align="center"><a src="https://dev.to/rav"><img width=50px src="https://github.com/rav-e/rav-e/blob/main/dev.png"></a></p>
 <hr>
 
 #### Connect with me
