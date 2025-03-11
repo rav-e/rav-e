@@ -1,20 +1,23 @@
-# Hey there! I'm Ravi.
-👋🏻 I'm a Student, pursuing Computer Engineering specialized in Software Development.
-<br>
-🪢 Amazed by capabilities of Computers,
-<br>
-🛠 Currently learning to Build Software's.
-<hr>
+# Hi there! 👋  
 
-#### Connect with me
-✉ ```jr.raviranjan@gmail.com```
-<br>
+I'm **Ravi**, a Backend & Cloud Engineer passionate about Python, AWS, and scalable system design.  
+I specialize in cloud architecture, infrastructure, Automation solutions, and Web services.  
 
-<img width=20px src="https://github.com/rav-e/rav-e/blob/main/twitter.png"> ```@jr_raviranjan```
-<br>
+## 🚀 Tech Stack  
+- Python  
+- Amazon Web Services  
+- Terraform  
 
+## 🛠 Software Development & Testing  
+- Develop software using **Test-Driven Development (TDD)**  
+- Test software using **Behavior-Driven Development (BDD)**  
+- Unit Testing  
+- Component Testing  
+- Contract Testing  
+- End-to-End Testing  
 
+## 📌 Project  
+**Enterprise Content Managemnt** – Building an Enterprise Content Management (ECM) solution on AWS Cloud  
 
-
- 
-
+## 📫 Let's Connect  
+Email: jr.raviranajn@gmail.com
