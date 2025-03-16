@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b14368b9-b228-4bdf-836c-cfc039b2549e)# Hi there! 👋  
+Hi there! 👋  
 
 I'm **Ravi**, a Backend & Cloud Engineer passionate about Python, AWS, and scalable system design.  
 I have experience in designing and developing services, automation solutions, cloud architecture, infrastructure.
